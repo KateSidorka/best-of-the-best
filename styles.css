@@ -79,14 +79,29 @@ address {
 }
 
 /* -----------------------------HEADER ------------------------------*/
-.header {}
+.header {
+}
 
-.header-logo {}
+.header-logo {
+}
 
-.header-nav {}
+.header-nav {
+}
 
-.header-list {}
+.header-list {
+}
 
-.header-item {}
+.header-item {
+}
 
-.header-link {}
+.header-link {
+}
+/* -----------------------HERO------------------ */
+.hero {
+}
+.hero-title {
+}
+.hero-text {
+}
+.hero-btn {
+}
